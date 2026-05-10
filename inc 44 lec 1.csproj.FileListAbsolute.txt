@@ -1,0 +1,14 @@
+C:\Users\casti\source\repos\inc 44 lec 1\inc 44 lec 1\bin\Debug\net8.0\inc 44 lec 1.exe
+C:\Users\casti\source\repos\inc 44 lec 1\inc 44 lec 1\bin\Debug\net8.0\inc 44 lec 1.deps.json
+C:\Users\casti\source\repos\inc 44 lec 1\inc 44 lec 1\bin\Debug\net8.0\inc 44 lec 1.runtimeconfig.json
+C:\Users\casti\source\repos\inc 44 lec 1\inc 44 lec 1\bin\Debug\net8.0\inc 44 lec 1.dll
+C:\Users\casti\source\repos\inc 44 lec 1\inc 44 lec 1\bin\Debug\net8.0\inc 44 lec 1.pdb
+C:\Users\casti\source\repos\inc 44 lec 1\inc 44 lec 1\obj\Debug\net8.0\inc 44 lec 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casti\source\repos\inc 44 lec 1\inc 44 lec 1\obj\Debug\net8.0\inc 44 lec 1.AssemblyInfoInputs.cache
+C:\Users\casti\source\repos\inc 44 lec 1\inc 44 lec 1\obj\Debug\net8.0\inc 44 lec 1.AssemblyInfo.cs
+C:\Users\casti\source\repos\inc 44 lec 1\inc 44 lec 1\obj\Debug\net8.0\inc 44 lec 1.csproj.CoreCompileInputs.cache
+C:\Users\casti\source\repos\inc 44 lec 1\inc 44 lec 1\obj\Debug\net8.0\inc 44 lec 1.dll
+C:\Users\casti\source\repos\inc 44 lec 1\inc 44 lec 1\obj\Debug\net8.0\refint\inc 44 lec 1.dll
+C:\Users\casti\source\repos\inc 44 lec 1\inc 44 lec 1\obj\Debug\net8.0\inc 44 lec 1.pdb
+C:\Users\casti\source\repos\inc 44 lec 1\inc 44 lec 1\obj\Debug\net8.0\inc 44 lec 1.genruntimeconfig.cache
+C:\Users\casti\source\repos\inc 44 lec 1\inc 44 lec 1\obj\Debug\net8.0\ref\inc 44 lec 1.dll
