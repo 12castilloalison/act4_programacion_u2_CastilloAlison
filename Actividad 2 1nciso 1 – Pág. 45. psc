@@ -1,0 +1,13 @@
+Algoritmo inc_45_lec_2
+	definir nivel, monedas Como Entero
+	Escribir "====VIDEOJUEGO===="
+	Escribir "EL nivel 5 está bloqueado"
+	escribir "introduce 350 monedas para desbloquear el nivel 5"
+	 leer monedas
+	Mientras monedas <350 o monedas >350 Hacer
+		escribir "la cantidad de monedas que ingreso no es valida, ingrese 350 monedas"
+		leer monedas
+	Fin Mientras
+	escribir "nivel 5 desbloqueado!"
+	
+FinAlgoritmo
